@@ -1,4 +1,5 @@
 # cpp-uav-docs
 Documentation for all teams to reference
 
-Please review the wiki to see FRRs and checklists
+FRR Documents
+https://drive.google.com/drive/folders/1vtrgYgTFHpHci6jZMqV_6wGU1vGyxyE7?usp=sharing
